@@ -7,7 +7,7 @@ body {
   background-color: #f5e0e5;
   position: relative;
   font-family: "Roboto", sans-serif;
-  background-image: url("https://raw.githack.com/golovina972/Practice6/main/pic%201.jpg");
+  background-image: url("https://raw.githack.com/golovina972/Practice6/main/pic%201.png");
 }
 
 
@@ -21,7 +21,7 @@ body {
   height: 530px;
   border-radius: 15px;
   box-shadow: 0 15px 20px 10px #FFD700;
-  background-image: url("https://raw.githack.com/golovina972/Practice6/main/pic%201.jpg");
+  background-image: url("https://raw.githack.com/golovina972/Practice6/main/pic%201.png");
 }
 
 .player input[type=range] {
